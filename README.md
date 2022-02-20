@@ -3,12 +3,11 @@
 
 ## language & Tools
 
-* HTML5 - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="30px" height="10px">
-* CSS3
-* MYSQL
-* Git
-* Github
-* JavaScript
+* HTML5 - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+* CSS3 - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+* MYSQL - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+* Github - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+* JavaScript - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
 
 
 
