@@ -1,7 +1,14 @@
 
 <center><h2> Hi there my name is Gilbert 👋</p></center>
 
-##language & Tools
+## language & Tools
+
+* HTML5
+* CSS3
+* MYSQL
+* Git
+* Github
+* JavaScript
 
 
 
