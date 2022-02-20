@@ -1,7 +1,6 @@
 
 <center><h2> Hi there my name is Gilbert 👋</p></center>
 
----
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
