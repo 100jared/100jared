@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @100jared
-<center><h2> Hi there my name is Gilbert</p></center>
+
+<center><h2> Hi there my name is Gilbert 👋</p></center>
+
+---
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
