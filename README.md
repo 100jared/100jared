@@ -27,7 +27,7 @@
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>&nbsp; 
   <a href="https://email.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email"> Github
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20px" height="20px"> Email
   </a>
 </p>
 <!---
