@@ -3,11 +3,29 @@
 
 ## language & Tools
 
-* HTML5 - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+<p>
+  <a>
+    <img src = "https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50px" height="30px">
+  </a>&nbsp;
+  <a>
+    <img src = "https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_css3-512.png" width="50px" height="30px">
+  </a>&nbsp;
+  
+  <a>
+    <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+  </a>&nbsp;
+  <a>
+    <img src = "https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" alt="github">
+  </a>&nbsp;
+  <a>
+    <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+  </a>&nbsp;
+  
 * CSS3 - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
 * MYSQL - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
 * Github - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
 * JavaScript - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+</p>
 
 
 
