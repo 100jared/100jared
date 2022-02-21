@@ -5,10 +5,10 @@
 
 <p>
   <a>
-    <img src = "https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50px" height="30px">
+    <img src = "https://camo.githubusercontent.com/519b008b6e1ea17a5444484d32ec29ba68898c3c2ed8b23a7b393f0200fc6a77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d636972636c65266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
   </a>&nbsp;
   <a>
-    <img src = "https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_css3-512.png" width="50px" height="30px">
+    <img src = "https://camo.githubusercontent.com/89f09922e10e67c940abbd1e8b1434ec35d84e56415c340b62b32b287cbf683e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d636972636c65266c6f676f3d63737333">
   </a>&nbsp;
   
   <a>
@@ -18,13 +18,13 @@
     <img src = "https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" alt="github">
   </a>&nbsp;
   <a>
-    <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+    <img src = "https://camo.githubusercontent.com/6b66f6b9f35ec797eec85e0aa76f4590a9fdcabf2eb33093c01deb228c00cad5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d636972636c65266c6f676f3d676974687562">
   </a>&nbsp;
   
-* CSS3 - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
-* MYSQL - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
-* Github - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
-* JavaScript - <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+  
+  <a>
+    <img src ="https://camo.githubusercontent.com/816e00413254d96c5986524149a2e6ce3f4cc901dff9407da3a6617552a87288/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d636972636c65266c6f676f3d676974">
+  </a>&nbsp;
 </p>
 
 
