@@ -12,7 +12,7 @@
   </a>&nbsp;
   
   <a>
-    <img src = "https://github.com/100jared/100jared/blob/main/js.png" width="50px" height="30px">
+    <img src = "https://camo.githubusercontent.com/0d09f679baeba2c1e0e2112c00f4f49d5dceff7468b2657507a719e0e09313d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d636972636c65266c6f676f3d6d7973716c" width="50px" height="30px">
   </a>&nbsp;
   <a>
     <img src = "https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" alt="github">
