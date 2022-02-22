@@ -26,15 +26,19 @@
 </p>
 <p>What do I do? <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" height="20px" width="30px"></p>
 
-1. Web deveoper
-   - [Fast-food](https://100jared.github.io/independent-project/)
+<details>
+  <summary>Web deveoper</summary>
+  
+   - [Instant-food](https://100jared.github.io/independent-project/)
    - [online-voting](https://100jared.github.io/vote-bluetech/)
    - [business-websites](https://100jared.github.io/independent-project2./)
+</details>
  
-2. Problem solver
+<details>
+  <summary>  Problem solver </summary>
    - [leetcode](https://leetcode.com/gilbert-korir/)
    - [GeeksforGeeks](https://leetcode.com/gilbert-korir/)
-
+</details>
 
 ![gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=100jared&show_icons=true&theme=radical)
 
