@@ -43,7 +43,7 @@
 <details>
   <summary> Global community </summary>
   
-   - Let's connect on linkedin[](https://www.linkedin.com/in/gilbert-k-911886115/)
+   - Let's connect on linkedin [here](https://www.linkedin.com/in/gilbert-k-911886115/)
 </details>
 
 <details>
