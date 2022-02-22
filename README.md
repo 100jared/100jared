@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi there my name is <span color="magenta">Gilbert</span> 👋 </h2>
 
-<img align = "center" src="https://github.com/100jared/100jared/blob/main/readme.png">
+<p align="center"><img src="https://github.com/100jared/100jared/blob/main/readme.png"></p>
 
 ## language & Tools
 
