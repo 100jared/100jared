@@ -36,6 +36,7 @@
  
 <details>
   <summary>  Problem solver </summary>
+  
    - [leetcode](https://leetcode.com/gilbert-korir/)
    - [GeeksforGeeks](https://leetcode.com/gilbert-korir/)
 </details>
