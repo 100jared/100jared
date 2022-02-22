@@ -69,7 +69,7 @@
   <a href="https://github.com/100jared" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>&nbsp; 
-  <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" rel="nofollow noreferrer">
+  <a href="jerikorir@gmail.com" rel="nofollow noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20px" height="20px"> Email
   </a>
 </p>
