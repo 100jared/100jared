@@ -24,8 +24,9 @@
     <img src ="https://camo.githubusercontent.com/816e00413254d96c5986524149a2e6ce3f4cc901dff9407da3a6617552a87288/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d636972636c65266c6f676f3d676974">
   </a>&nbsp;
 </p>
-### What is my daily goal? <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
-1. Web deveoper.
+### What is my daily goal? 
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
+1. Web deveoper
    - [Fast-food](https://100jared.github.io/independent-project/)
    - [online-voting](https://100jared.github.io/vote-bluetech/)
    - [business-websites](https://100jared.github.io/independent-project2./)
