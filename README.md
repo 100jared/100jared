@@ -63,13 +63,13 @@
 ### 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/gilbert-k-911886115/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://github.com/100jared" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>&nbsp; 
-  <a href="https://email.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" rel="nofollow noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20px" height="20px"> Email
   </a>
 </p>
