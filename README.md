@@ -1,5 +1,5 @@
 
-<h2> <center>Hi there my name is Gilbert 👋 </center></h2>
+<h2 align="center"> Hi there my name is Gilbert 👋 </h2>
 
 ## language & Tools
 
