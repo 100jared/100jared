@@ -26,6 +26,7 @@
 </p>
 ### What is my daily goal? 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
+
 1. Web deveoper
    - [Fast-food](https://100jared.github.io/independent-project/)
    - [online-voting](https://100jared.github.io/vote-bluetech/)
