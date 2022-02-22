@@ -40,6 +40,19 @@
    - [leetcode](https://leetcode.com/gilbert-korir/)
    - [GeeksforGeeks](https://leetcode.com/gilbert-korir/)
 </details>
+<details>
+  <summary> Global community </summary>
+  
+   - Let's connect on linkedin[](https://www.linkedin.com/in/gilbert-k-911886115/)
+</details>
+
+<details>
+  <summary> Contribution </summary>
+  
+   - [github](https://github.com/100jared)
+</details>
+
+  
 
 ![gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=100jared&show_icons=true&theme=radical)
 
