@@ -1,5 +1,7 @@
 
-<h2 align="center"> Hi there my name is <span style="background-color: magenta;">Gilbert</span> 👋 </h2>
+<h2 align="center"> Hi there my name is <span color="magenta">Gilbert</span> 👋 </h2>
+
+<img src="https://github.com/100jared/100jared/blob/main/readme.png">
 
 ## language & Tools
 
